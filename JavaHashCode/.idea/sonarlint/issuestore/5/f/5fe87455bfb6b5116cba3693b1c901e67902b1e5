@@ -1,0 +1,26 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘è³c
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(€å”çùÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(«ŒÒŠ
+D
+java:S1905"'Remove this unnecessary cast to "long".(òê¨ò8‰¶Ø/
+L
+java:S6212"/Declare this local variable with "var" instead.(«ŒÒŠ8Ÿ‰¶Ø/
+D
+java:S2201"'The return value of "get" must be used.(ıÁñ½8çõ ¶Ø/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¿ğäà8 ‰¶Ø/
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(”Ù‡õ8ìõ ¶Ø/
+L
+java:S6212"/Declare this local variable with "var" instead.(«ŒÒŠ8³š¡¶Ø/
+D
+java:S1905"'Remove this unnecessary cast to "long".(òê¨ò8òõ ¶Ø/
+L
+java:S6212 "/Declare this local variable with "var" instead.(«ŒÒŠ8µš¡¶Ø/
+I
+java:S2201!"'The return value of "get" must be used.(„²øüÿÿÿÿ8ôõ ¶Ø/
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(¿ğäà8õõ ¶Ø/
+J
+java:S6212'"/Declare this local variable with "var" instead.(ìéŸ¢ıÿÿÿÿ

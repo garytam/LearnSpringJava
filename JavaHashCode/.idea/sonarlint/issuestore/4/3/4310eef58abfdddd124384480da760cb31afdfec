@@ -1,0 +1,17 @@
+
+a
+java:S11925"FDefine a constant instead of duplicating this literal "Lucas" 6 times.(Çœ˜ìüÿÿÿÿ
+e
+java:S1192<"JDefine a constant instead of duplicating this literal "Spielberg" 4 times.(Âó©úÿÿÿÿ
+|
+java:S1488!"aImmediately return this expression instead of assigning it to the temporary variable "countries".(‡šØ¯ÿÿÿÿÿ
+|
+java:S1488&"aImmediately return this expression instead of assigning it to the temporary variable "countries".(ï‹ü½øÿÿÿÿ
+|
+java:S1488+"aImmediately return this expression instead of assigning it to the temporary variable "countries".(²¤¯Ÿüÿÿÿÿ
+S
+java:S1128"8Remove this unused import 'java.util.function.Consumer'.(Ì†ƒÔùÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(úØÍøüÿÿÿÿ
+t
+java:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").(†•¤ÿÿÿÿÿÿ
